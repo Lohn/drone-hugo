@@ -1,12 +1,12 @@
 # drone-hugo
 
-[![Build Status](http://cloud.drone.io/api/badges/drone-plugins/drone-hugo/status.svg)](http://cloud.drone.io/drone-plugins/drone-hugo)
+[![Build Status](http://cloud.drone.io/api/badges/Lohn/drone-hugo/status.svg)](http://cloud.drone.io/Lohn/drone-hugo)
 [![Gitter chat](https://badges.gitter.im/drone/drone.png)](https://gitter.im/drone/drone)
 [![Join the discussion at https://discourse.drone.io](https://img.shields.io/badge/discourse-forum-orange.svg)](https://discourse.drone.io)
 [![Drone questions at https://stackoverflow.com](https://img.shields.io/badge/drone-stackoverflow-orange.svg)](https://stackoverflow.com/questions/tagged/drone.io)
 [![](https://images.microbadger.com/badges/image/plugins/hugo.svg)](https://microbadger.com/images/plugins/hugo "Get your own image badge on microbadger.com")
-[![Go Doc](https://godoc.org/github.com/drone-plugins/drone-hugo?status.svg)](http://godoc.org/github.com/drone-plugins/drone-hugo)
-[![Go Report](https://goreportcard.com/badge/github.com/drone-plugins/drone-hugo)](https://goreportcard.com/report/github.com/drone-plugins/drone-hugo)
+[![Go Doc](https://godoc.org/github.com/Lohn/drone-hugo?status.svg)](http://godoc.org/github.com/Lohn/drone-hugo)
+[![Go Report](https://goreportcard.com/badge/github.com/Lohn/drone-hugo)](https://goreportcard.com/report/github.com/Lohn/drone-hugo)
 
 Automatically create static web page files using [Hugo](https://github.com/gohugoio/hugo) within your Drone pipeline. For the usage information and a listing of the available options please take a look at [the docs](http://plugins.drone.io/drone-plugins/drone-hugo/).
 
